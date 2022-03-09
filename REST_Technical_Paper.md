@@ -123,6 +123,7 @@ REST is much easier than other approaches such as SOAP, which keeps developers f
 Since REST is based on standard HTTP operations, it uses verbs with specific meanings such as "get" or "delete" which avoids ambiguity. Resources are assigned to individual URIs, adding flexibility.
 
 With REST, information that is produced and consumed is separated from the technologies that facilitate production and consumption. As a result, REST performs well, is highly scalable, simple, and easy to modify and extend.
+
 ---
 
 ### Refrences
